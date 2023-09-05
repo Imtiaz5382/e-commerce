@@ -369,6 +369,28 @@ font-family: 'Roboto', sans-serif;
 			background-color:#1b1b1f;
 			transition: all  ease 0.5s;
 		}
+		@media all and (max-width:500px){
+			.oimg img{
+			 position: relative;
+			 left: 235px;
+			}
+			.logo{
+			 left: 250px;
+			}
+			.productSection {
+			 width: 212%;}
+			 .productSection2 {
+				 width: 212%;}
+				 .Notification {
+					 width: 229%;}
+		 footer{
+			 width: 232%;
+		 }		
+		 
+		 }
+		 
+		 
+				 
 
 
 		
